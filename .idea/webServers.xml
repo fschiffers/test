@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7e8ca001-51eb-425e-961d-7d742cb7e188" name="myFiles" url="http://localhost">
+        <fileTransfer host="woodycap.rrze.uni-erlangen.de" port="22" rootFolder="/home/hpc/capm/mppi006h/PycharmProjects/untitled1" accessType="SFTP" username="mppi006h">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
